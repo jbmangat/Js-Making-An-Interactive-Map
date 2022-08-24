@@ -1,0 +1,7 @@
+/* style dropdown */
+/* style map */
+#map { height: 700px; }
+/* temporary border for div */
+.temp {
+    border:1px solid chocolate;
+} 
